@@ -1,1 +1,3 @@
 # ConflictoGit2
+
+ESCRIBO COSAS PARA RAMA-FEATURE
